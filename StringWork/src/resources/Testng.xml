@@ -1,0 +1,7 @@
+<suite name="String">
+	<test name="String1">
+		<classes>
+			<class name="com.apple.assignment.RemoveCharTest" />
+		</classes>
+	</test>
+</suite>

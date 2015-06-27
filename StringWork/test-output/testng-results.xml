@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34" started-at="2015-06-27T00:01:58Z" finished-at="2015-06-27T00:01:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34" started-at="2015-06-27T00:01:58Z" finished-at="2015-06-27T00:01:58Z">
+      <class name="test.java.com.apple.assignment.RemoveCharTest">
+        <test-method status="PASS" signature="testRemoveCharByLoop()[pri:0, instance:test.java.com.apple.assignment.RemoveCharTest@1ef7fe8e]" name="testRemoveCharByLoop" duration-ms="16" started-at="2015-06-26T17:01:58Z" finished-at="2015-06-26T17:01:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveCharByLoop -->
+        <test-method status="PASS" signature="testRemoveCharUsingAPI()[pri:0, instance:test.java.com.apple.assignment.RemoveCharTest@1ef7fe8e]" name="testRemoveCharUsingAPI" duration-ms="2" started-at="2015-06-26T17:01:58Z" finished-at="2015-06-26T17:01:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveCharUsingAPI -->
+      </class> <!-- test.java.com.apple.assignment.RemoveCharTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
